@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ba7f992d9c8004fd39cddb31147a16f5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Nightmare Before Christmas
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ae1431246f9f54aae887111e130e3884, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
